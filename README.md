@@ -6,3 +6,6 @@ Este es un clásico juego de 3 en raya desarrollado con React y estilizado con C
 Desarrollado para aprender sobre React
 
 Puedes verlo aquí -> https://davidgm09.github.io/TicTacToe/
+
+
+![tictactoe1](https://github.com/user-attachments/assets/9d2c5019-72a8-4521-928e-a63a124283ef)
